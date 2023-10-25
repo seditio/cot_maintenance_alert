@@ -26,4 +26,6 @@ $L['info_desc'] = 'Выводит предупреждение на главно
  * Plugin Body
  */
 
+$L['maintenance_alert_title'] = 'Maintenance Alert';
+$L['maintenance_alert_settings'] = 'В настройки';
 $L['maintenance_alert_warning'] = 'Сайт находится в режиме обслуживания. По окончании работ не забудьте выключить этот режим.';
